@@ -1,0 +1,2 @@
+this is a new file create file mode using write mode!:
+this is a new  added file mode using write mode!:
